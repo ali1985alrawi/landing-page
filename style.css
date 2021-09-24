@@ -298,11 +298,13 @@ footer > ul {
   display: flex;
   justify-content: flex-end;
   color: #fff;
+  text-align: center;
 }
 
 footer > ul > li {
   padding: 0 10px;
-  color: #fff
+  color: #fff;
+  text-align: center;
 }
 
 footer > span {
@@ -311,4 +313,5 @@ footer > span {
   justify-content: flex-end;
   font-size: 0.9em;
   color: #fff;
+  text-align: center;
 }
