@@ -98,6 +98,21 @@ header {
 
 nav {
   font-weight: 400;
+  background-color: #777;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.nav-link{
+   font-size: larger;
+
+   font-weight: 700;
+
+   color: #fff
+}
+
+.nav-link:hover {
+  color: orange;
 }
 
 @media (max-width: 650px) {
