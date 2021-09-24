@@ -291,12 +291,11 @@ footer {
   background-color: #777;
   padding: 20px;
   width: 100%;
-  text-align: center;
 }
 
 footer > ul {
   display: flex;
-  justify-content: flex-end;
+  justify-content: center;
   color: #fff;
   text-align: center;
 }
